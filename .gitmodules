@@ -1,0 +1,16 @@
+[submodule "backend"]
+	branch = main
+	path = backend
+	url = https://github.com/postassiums/livros-backend
+[submodule "frontends/livros-react"]
+	branch = m2n5
+	path = frontends/livros-react
+	url = https://github.com/postassiums/Livros-React-Estacio
+[submodule "frontends/livros-next"]
+	branch= m2n5
+	path = frontends/livros-next
+	url = https://github.com/postassiums/Livro-Next-Estacio
+[submodule "frontends/livros-angular"]
+	branch= m2n5
+	path = frontends/livros-angular
+	url = https://github.com/postassiums/missao_pratica_nivel_4_m2
